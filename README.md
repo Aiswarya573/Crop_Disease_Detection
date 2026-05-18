@@ -2,6 +2,9 @@
 
 AI-powered crop disease detection web application built using React.js and Machine Learning.
 
+
+Link: https://aiswarya573.github.io/Crop_Disease_Detection/
+
 ## Features
 - Upload crop leaf image
 - Detect plant disease
